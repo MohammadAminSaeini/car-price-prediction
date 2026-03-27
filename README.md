@@ -28,3 +28,7 @@ The model is trained on the following key specifications:
 * **Libraries:** Pandas, NumPy, Scikit-Learn (Pipelines, Cross-validation, Linear Model), Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 
+## Let's Connect
+* **LinkedIn**: [Let's network!](https://www.linkedin.com/in/mohammad-amin-saeini)
+* **Kaggle**: [Check out on Kaggle!](https://www.kaggle.com/code/mohammadaminsaeini/car-price-prediction-using-linear-regression)
+
